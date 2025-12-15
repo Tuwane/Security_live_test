@@ -1,1 +1,1 @@
-web: gunicorn Security_test.wsgi
+web: gunicorn Admin.wsgi:appllication
